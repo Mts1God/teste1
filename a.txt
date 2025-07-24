@@ -1,7 +1,1 @@
-testanto uma att de arquivo
-<<<<<<< HEAD
-
-=======
-com git pull
-att
->>>>>>> b55ab6289b61f6c8a2403e5bbc8768dd46f6c5e0
+testanto uma att de 
